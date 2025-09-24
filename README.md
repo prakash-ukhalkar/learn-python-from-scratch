@@ -53,7 +53,14 @@ Contributions are welcome! If you'd like to improve examples, add topics, or fix
 
 Happy Learning! 🎓
 
+---
+
+## 👨‍💻 Author
+
+**Learn Python Programming from Scratch** is created and maintained by [**Prakash Ukhalkar**](https://github.com/prakash-ukhalkar)
 
 ---
 
-*Learn Python Programming from Scratch* by [*Prakash Ukhalkar*](https://github.com/prakash-ukhalkar)
+<div align="center">
+  <sub>Built with ❤️ for the Python community</sub>
+</div>
