@@ -21,6 +21,7 @@ Welcome to **Learn Python from Scratch** — a beginner-friendly, open-source pr
 
 ## 🗂️ Folder Structure
 
+```
 learn-python-from-scratch/
 ├── 01_basics/
 ├── 02_control_flow/
@@ -33,7 +34,7 @@ learn-python-from-scratch/
 ├── 09_advanced_topics/
 ├── 10_projects/
 └── 11_interview_questions/
-
+```
 
 Each folder contains Python files with clear examples, commented code, and short explanations.
 
