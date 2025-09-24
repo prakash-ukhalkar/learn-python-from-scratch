@@ -44,7 +44,7 @@ Each folder contains Python files with clear examples, commented code, and short
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/learn-python-from-scratch.git
+   git clone https://github.com/prakash-ukhalkar/learn-python-from-scratch.git
 2. Navigate to the folder of your choice and start exploring!
 
 🤝 Contributing
