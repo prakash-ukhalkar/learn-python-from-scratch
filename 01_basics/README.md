@@ -9,7 +9,12 @@ This section covers the foundational concepts of Python programming. You'll lear
 - `input_output.py` — Taking input from users and displaying output  
 - `type_conversion.py` — Converting between data types  
 - `comments.py` — Using comments in Python code  
-- `basic_operators.py` — Arithmetic and comparison operators  
+- `basic_operators.py` — Arithmetic, comparison, logical, and assignment operators  
+- `string_operations.py` — Common string methods and slicing  
+- `boolean_values.py` — Truthy and falsy values, boolean logic  
+- `math_functions.py` — Useful functions from the `math` module  
+- `practice_exercises.py` — Mini exercises to reinforce basic concepts  
+- `tips_and_tricks.md` — Helpful tips, shortcuts, and best practices for beginners
 
 Each file contains examples with comments to help you understand how Python works from the ground up.
 
